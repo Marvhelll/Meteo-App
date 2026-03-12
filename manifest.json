@@ -2,20 +2,20 @@
   "name": "Météo Paris & Nantes",
   "short_name": "Météo",
   "description": "Météo en temps réel pour Paris et Nantes",
-  "start_url": "/",
+  "start_url": "/Meteo-App/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/Meteo-App/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/Meteo-App/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
